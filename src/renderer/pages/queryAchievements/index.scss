@@ -1,0 +1,15 @@
+.queryAchievements-container{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  .queryAchievements-container-search{
+    width: 70%;
+    margin: 5px auto;
+    position: relative;
+    top: -20%;
+  }
+}
